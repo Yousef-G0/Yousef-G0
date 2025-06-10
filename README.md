@@ -4,7 +4,6 @@
 <!-- Profile GIF -->
 <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl6YXVxY2x6OW44M3ZkcHdqMG9rcXZ2dmRkZ3cwOGc5bTI5bzg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H38N3BvDUzkc/giphy.gif" alt="animated" />
 
----
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
@@ -42,7 +41,7 @@
   <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42"/></a>
 </p>
 
----
+
 
 <h2>⚡️ Where to find me</h2>
 <p>
@@ -51,7 +50,7 @@
   </a>
 </p>
 
----
+
 
 <!-- GitHub Snake Animation -->
 <picture>

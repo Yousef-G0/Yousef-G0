@@ -2,7 +2,7 @@
 <p>A passionate Security Engineer</p>
 
 <!-- Profile GIF -->
-<img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl6YXVxY2x6OW44M3ZkcHdqMG9rcXZ2dmRkZ3cwOGc5bTI5bzg4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8H38N3BvDUzkc/giphy.gif" alt="animated" />
+<img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2bDI5bnc4enRneXV0bmFjNXNmdXdmZXZiZGJsbzJmcGp4bjRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif" />
 
 
 <h2>🚀 Languages and Tools I Use</h2>

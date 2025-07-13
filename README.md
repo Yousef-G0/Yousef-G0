@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Yousef — trying to change the world</h1>
-<p>A passionate Security Engineer</p>
+<h1 align="left">Hi 👋 there, Yousef — is trying to change the world</h1>
+<p>A passionate Security Engineer/Architect</p>
 
 <!-- Profile GIF -->
 <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2bDI5bnc4enRneXV0bmFjNXNmdXdmZXZiZGJsbzJmcGp4bjRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif" />

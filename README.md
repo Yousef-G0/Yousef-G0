@@ -6,7 +6,7 @@
 
 
 <h2>🚀 Languages and Tools I Use</h2>
-<p>
+
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42"/></a>
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42"/></a>
@@ -39,7 +39,7 @@
   <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42"/></a>
   <a href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42"/></a>
   <a href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42"/></a>
-</p>
+
 
 
 

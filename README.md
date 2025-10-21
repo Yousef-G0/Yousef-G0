@@ -3,7 +3,7 @@ A passionate Security Engineer/Architect, Exploit/Malware Developer
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/efJ8nHENtF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yousef-feery-3762632a5/) <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2bDI5bnc4enRneXV0bmFjNXNmdXdmZXZiZGJsbzJmcGp4bjRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif" />
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/efJ8nHENtF) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yousef-feery-3762632a5/) 
 
 
 # 💻 Tech Stack:
@@ -11,13 +11,13 @@ A passionate Security Engineer/Architect, Exploit/Malware Developer
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Yousef-G0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Yousef-G0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-G0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-G0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2bDI5bnc4enRneXV0bmFjNXNmdXdmZXZiZGJsbzJmcGp4bjRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Yousef-G0&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yousef-G0&limit=5&theme=radical&combine_all_yearly_contributions=true)

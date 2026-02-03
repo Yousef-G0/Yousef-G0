@@ -14,7 +14,7 @@ A passionate Security Engineer/Architect, Exploit/Malware Developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef-G0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yousef-G0&theme=blue-green&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Yousef-G0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> <img align="right" height="180" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2bDI5bnc4enRneXV0bmFjNXNmdXdmZXZiZGJsbzJmcGp4bjRlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RhPlRgkE8mvE4/giphy.gif" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 

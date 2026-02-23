@@ -1,5 +1,6 @@
-# 💫 About Me:
-A passionate Security Engineer/Architect, Exploit/Malware Developer
+<p align="center">
+	<img src="https://raw.githubusercontent.com/timothystewart6/images/master/techno-timgithub-profile.jpg" alt="Hero Image of a network rack.  It reads 'Hi, I'm Yousef developer, and a business guy'" />
+</p>
 
 
 ## 🌐 Socials:

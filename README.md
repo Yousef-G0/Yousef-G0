@@ -3,63 +3,25 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
  Tech Guy and a Business one.
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://lua.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://go.dev/doc/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.rust-lang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.ruby-lang.org/en/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.gnu.org/software/bash/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.vim.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.oracle.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://portal.azure.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://kubernetes.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" style="display:inline-block; margin-right:6px;" />
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" style="display:inline-block;" />
-</a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36"/></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36"/></a>
+<a href="https://lua.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36"/></a>
+<a href="https://go.dev/doc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36"/></a>
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></a>
+<a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36"/></a>
+<a href="https://www.ruby-lang.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36"/></a>
+<a href="https://www.vim.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36"/></a>
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36"/></a>
+<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36"/></a>
+<a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36"/></a>
+<a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36"/></a>
+<a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36"/></a>
+<a href="https://kubernetes.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/></a>
+<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36"/></a>
 </p>
 
 ### Socials
